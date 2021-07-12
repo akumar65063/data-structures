@@ -1,0 +1,12 @@
+/Users/alokkumar/Desktop/DS_Solutions/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.deps.json
+/Users/alokkumar/Desktop/DS_Solutions/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.runtimeconfig.json
+/Users/alokkumar/Desktop/DS_Solutions/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.runtimeconfig.dev.json
+/Users/alokkumar/Desktop/DS_Solutions/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.dll
+/Users/alokkumar/Desktop/DS_Solutions/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.pdb
+/Users/alokkumar/Desktop/DS_Solutions/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.AssemblyInfoInputs.cache
+/Users/alokkumar/Desktop/DS_Solutions/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.AssemblyInfo.cs
+/Users/alokkumar/Desktop/DS_Solutions/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.csproj.CoreCompileInputs.cache
+/Users/alokkumar/Desktop/DS_Solutions/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.dll
+/Users/alokkumar/Desktop/DS_Solutions/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.pdb
+/Users/alokkumar/Desktop/DS_Solutions/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.genruntimeconfig.cache
+/Users/alokkumar/Desktop/DS_Solutions/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.csproj.AssemblyReference.cache
